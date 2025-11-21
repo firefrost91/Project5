@@ -4,7 +4,7 @@
 
 Assigned: Friday, November 21, 2025
 
-Due: Friday, December 5, 2:00 PM
+Due: Friday, December 5, 11:59 PM
 
 **Principles**
 
